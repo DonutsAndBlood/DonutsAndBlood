@@ -5,7 +5,7 @@
  
 My first contact with coding came with arduino boards, i used to make robots with it and turned out to be love at first glance.
 Since then i never stopped getting more interested in learning things about programming, new languages, new methods of doing things i've already did, applicabilities, etc...
-It's already a big journey trough all of this, but i'm pretty excited to know that i'm just getting started and there's still a whole ocean of thing to learn.
+It's already a big journey trough all of this, but i'm pretty excited to know that i'm just getting started and there's still a whole ocean of stuff to learn.
 
 Switch(facts){
 
