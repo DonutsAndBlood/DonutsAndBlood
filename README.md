@@ -23,13 +23,13 @@ break;
 
 case "Learning":
 
-System.out.println("C#")
+System.out.println("SQL")
 
 break;
 
 case "Improving":
 
-System.out.println("Django")
+System.out.println("Java")
 
 break;
 }
