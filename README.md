@@ -11,7 +11,7 @@ Switch(facts){
 
 case "Job":
 
-System.out.println("Currently unnemployed.")
+System.out.println("Web Developer")
 
 break;
 
@@ -23,13 +23,13 @@ break;
 
 case "Learning":
 
-System.out.println("SQL")
+System.out.println("C#")
 
 break;
 
 case "Improving":
 
-System.out.println("Java")
+System.out.println("JavaScript")
 
 break;
 }
